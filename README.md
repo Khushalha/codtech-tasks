@@ -1,2 +1,13 @@
 # codtech-tasks
-Artificial Intelligence Internship
+Name: Giduthuri Khushalha
+tasks:
+- TEXT
+SUMMARIZATION
+TOOL
+- SPEECH
+RECOGNITION
+SYSTEM
+- NEURAL STYLE
+TRANSFER
+- NEURAL STYLE
+TRANSFER
